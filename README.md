@@ -1,2 +1,2 @@
-# ITF-SUPA-GITHUB-PRACTICAL
-README
+welcome to my first repository
+-ITF
